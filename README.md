@@ -48,7 +48,7 @@ This project automates the fact-checking process by extracting claims from PDFs 
 - HTTP APIs
 
 ## Deployment
-- Firebase Hosting
+- Github Pages
 
 ---
 
@@ -68,18 +68,7 @@ Generate Verification Report
 
 ---
 
-# 📸 Screenshots
 
-Add your screenshots here.
-
-Example:
-
-```md
-![Home Screen](assets/home.png)
-![Verification Report](assets/report.png)
-```
-
----
 
 # 🧪 Example Verification Output
 
@@ -91,11 +80,11 @@ Example:
 
 ---
 
-# 🌍 Live Demo
+
 
 ## Deployed App
 
-https://your-app.web.app
+https://ishamotsara.github.io/fact-checker-web-app.github.io/
 
 ---
 
@@ -117,7 +106,7 @@ lib/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/IshaMotsara/fact-checker-web-app.github.io.git
 ```
 
 ## Install Dependencies
@@ -136,15 +125,15 @@ flutter run -d chrome
 
 # 🔑 Environment Variables
 
-Create a `.env` file and add your API key:
+Added the API KEY in secrets.json:
 
-```env
-OPENAI_API_KEY=your_api_key
+```secrets.json
+GEMINI API KEY=your_api_key
 ```
 
 OR
 
-```env
+```secrets.json
 GEMINI_API_KEY=your_api_key
 ```
 
