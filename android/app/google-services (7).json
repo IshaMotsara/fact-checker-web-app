@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534587109053",
+    "project_id": "fact-check-agent-9b255",
+    "storage_bucket": "fact-check-agent-9b255.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534587109053:android:ffafebd16d94bd8e6ad1d4",
+        "android_client_info": {
+          "package_name": "com.example.fact_checker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUr6KzdQXCc7Gb4mZdBcb8rxjqMDfbxaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
