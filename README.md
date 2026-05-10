@@ -162,7 +162,7 @@ GEMINI_API_KEY=your_api_key
 
 # 👨‍💻 Author
 
-Your Name
+Isha
 
 ---
 
